@@ -1,7 +1,7 @@
 # 📘 Selecciona tu idioma | Select your language
 
-[![Español](https://img.shields.io/badge/lang-Español-red.svg)](README_es.md)
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README_en.md)
+[![Español](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ea-1f1f8.svg)](README_es.md)
+[![English](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ec-1f1e7.svg)](README_en.md)
 
 ---
 
