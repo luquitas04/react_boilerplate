@@ -1,0 +1,14 @@
+{
+  "name": "quadcore",
+  "private": true,
+  "packageManager": "npm@11.6.2",
+  "workspaces": ["packages/*", "examples/*"],
+  "scripts": {
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "dev": "turbo run dev"
+  },
+  "devDependencies": {
+    "turbo": "^2.3.3"
+  }
+}

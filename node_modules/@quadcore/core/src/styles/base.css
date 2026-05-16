@@ -1,0 +1,10 @@
+:root {
+  --qc-font-sans: system-ui, sans-serif;
+  --qc-font-mono: ui-monospace, monospace;
+  --qc-radius-sm: 6px;
+  --qc-radius-md: 12px;
+  --qc-radius-lg: 18px;
+  --qc-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --qc-shadow-md: 0 8px 32px rgba(0, 0, 0, 0.12);
+  --qc-transition: 0.18s ease;
+}

@@ -1,0 +1,18 @@
+export const CLASS_NAMES = {
+    root: "qc-card",
+    image: "qc-card__image",
+    imageWrapper: "qc-card__image-wrapper",
+    badge: "qc-card__badge",
+    body: "qc-card__body",
+    title: "qc-card__title",
+    description: "qc-card__description",
+    priceWrapper: "qc-card__price-wrapper",
+    price: "qc-card__price",
+    priceOriginal: "qc-card__price--original",
+    priceDiscount: "qc-card__price--discount",
+    discountBadge: "qc-card__discount-badge",
+    button: "qc-card__button",
+    buttonDisabled: "qc-card__button--disabled",
+    skeleton: "qc-card__skeleton",
+    error: "qc-card__error",
+};
